@@ -373,3 +373,17 @@ footer p {
     font-size: 17px;
   }
 }
+.topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px 24px;
+    background: #f5f1ea;
+}
+
+.site-logo {
+    width: 140px;
+    height: auto;
+    object-fit: contain;
+    display: block;
+}
