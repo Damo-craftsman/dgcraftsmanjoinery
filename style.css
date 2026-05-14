@@ -382,8 +382,10 @@ footer p {
 }
 
 .site-logo {
-    width: 140px;
-    height: auto;
-    object-fit: contain;
+    width: 90px;
+    height: 90px;
+    object-fit: cover;
     display: block;
+    border-radius: 50%;
+    background: transparent;
 }
