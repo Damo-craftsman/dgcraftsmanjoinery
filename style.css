@@ -389,3 +389,21 @@ footer p {
     border-radius: 50%;
     background: transparent;
 }
+.call-button {
+    background: #1f1712;
+    color: #f5f1ea;
+    padding: 14px 24px;
+    border-radius: 999px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    transition: 0.3s ease;
+}
+
+.call-button:hover {
+    background: #c89b5c;
+    color: #1f1712;
+}
